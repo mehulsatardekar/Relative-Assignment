@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1@",
+    "currencyname": "Bicoin (BTC)",
+    "cryptoimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119398/tasks/relative/assets/Bitcoin_SV_BSV_gf1eo8.png",
+    "price": "$31812.8",
+    "isprofit": true,
+    "profit": "+10%",
+    "tvlprice": "$60000",
+    "tvllists": [
+      {
+        "id": "23!",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660135663/tasks/relative/assets/Solana_SOL_1_yg1r8r.png",
+        "alt": "Solana SOL"
+      },
+      {
+        "id": "123@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119394/tasks/relative/assets/Ethereum_ETH_oihoxc.png",
+        "alt": "Ethereum (ETH)"
+      },
+      {
+        "id": "12as3@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119391/tasks/relative/assets/Binance_Coin_BNB_rol9xk.png",
+        "alt": "Binance USD"
+      }
+    ]
+  },
+
+  {
+    "id": "2@",
+    "currencyname": "Solana (SOL)",
+    "cryptoimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660135663/tasks/relative/assets/Solana_SOL_1_yg1r8r.png",
+    "price": "$32.83",
+    "isprofit": false,
+    "profit": "-12.32%",
+    "tvlprice": "$60,000",
+    "tvllists": [
+      {
+        "id": "=2as3@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119398/tasks/relative/assets/Bitcoin_SV_BSV_gf1eo8.png",
+        "alt": "bitcoin"
+      },
+      {
+        "id": "=98as3@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119394/tasks/relative/assets/Ethereum_ETH_oihoxc.png",
+        "alt": "Ethereum (ETH)"
+      },
+      {
+        "id": "=oj8as3@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119391/tasks/relative/assets/Binance_Coin_BNB_rol9xk.png",
+        "alt": "Binance USD"
+      }
+    ]
+  },
+
+  {
+    "id": "3@",
+    "currencyname": "Ethereum  (ETH)",
+    "cryptoimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119394/tasks/relative/assets/Ethereum_ETH_oihoxc.png",
+    "price": "$1,466.45",
+    "isprofit": false,
+    "profit": "-11.93%",
+    "tvlprice": "$60,000",
+    "tvllists": [
+      {
+        "id": "=oj8asfgh3@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660135663/tasks/relative/assets/Solana_SOL_1_yg1r8r.png",
+        "alt": "Solana SOL"
+      },
+      {
+        "id": "598@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119398/tasks/relative/assets/Bitcoin_SV_BSV_gf1eo8.png",
+        "alt": "Bitcoin (BTC)"
+      },
+      {
+        "id": "32yds8@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119391/tasks/relative/assets/Binance_Coin_BNB_rol9xk.png",
+        "alt": "Binance USD"
+      }
+    ]
+  },
+
+  {
+    "id": "4@",
+    "currencyname": "Binance USD (BUSD)",
+    "cryptoimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119391/tasks/relative/assets/Binance_Coin_BNB_rol9xk.png",
+    "price": "$1.00",
+    "isprofit": true,
+    "profit": "+0.26%",
+    "tvlprice": "$60,000",
+    "tvllists": [
+      {
+        "id": "$$$$8@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660135663/tasks/relative/assets/Solana_SOL_1_yg1r8r.png",
+        "alt": "Solana SOL"
+      },
+      {
+        "id": "@@@@@@",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119394/tasks/relative/assets/Ethereum_ETH_oihoxc.png",
+        "alt": "Ethereum (ETH)"
+      },
+      {
+        "id": "=====",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119391/tasks/relative/assets/Binance_Coin_BNB_rol9xk.png",
+        "alt": "Binance USD"
+      }
+    ]
+  },
+
+  {
+    "id": "5@",
+    "currencyname": "Shiba Inu (SHIB)",
+    "cryptoimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119388/tasks/relative/assets/SHIBA_INU_SHIB_zszyz2.png",
+    "price": "$0.0000001948",
+    "isprofit": false,
+    "profit": "-8.1%",
+    "tvlprice": "$60,000",
+    "tvllists": [
+      {
+        "id": "=+===+",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660135663/tasks/relative/assets/Solana_SOL_1_yg1r8r.png",
+        "alt": "Solana SOL"
+      },
+      {
+        "id": "9+===+",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119394/tasks/relative/assets/Ethereum_ETH_oihoxc.png",
+        "alt": "Ethereum (ETH)"
+      },
+      {
+        "id": "lop+===+",
+        "pairimage": "https://res.cloudinary.com/dwhsfh3sc/image/upload/v1660119391/tasks/relative/assets/Binance_Coin_BNB_rol9xk.png",
+        "alt": "Binance USD"
+      }
+    ]
+  }
+]
